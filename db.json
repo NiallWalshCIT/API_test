@@ -1,6 +1,6 @@
 {
-"application/json": [
-{ "ProcessEntity": "MCT_LaserStatus1", "TransitionDt": "2019-02-20 16:58:47.912693", "State": "Off" }
-]
+"application/json": 
+{ "ProcessEntity": "MCT_LaserStatus1", "TransitionDt": "2019-02-20 16:58:47.912693", "State": "Off" }}
+
 
 
